@@ -5,3 +5,4 @@
 _collaborators_
 
 * Rahwa Berhe
+* Azeez Adewale
