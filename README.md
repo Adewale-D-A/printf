@@ -4,5 +4,5 @@
 
 _collaborators_
 
-* Rahwa Berhe
-* Azeez Adewale
+* Rahwa Berhe <a href="https://github.com/RahwaSeifuBerhe" target="blank">@RahwaSeifuBerhe<a/>
+* Azeez Adewale <a href="https://github.com/adewale-d-a" target="blank">@adewale-d-a<a/>
